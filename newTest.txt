@@ -3,5 +3,9 @@ print ("AQ")
 print ("23125")
 add Line
 New string
+<<<<<<< HEAD
 15551
 dqwdqw
+=======
+1555112
+>>>>>>> 2bebcd4177393fe9e96d93e8b4075ef41fa9ac3b
