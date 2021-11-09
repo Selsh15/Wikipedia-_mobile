@@ -2,9 +2,8 @@ print ("AD")
 print ("AQ")
 print ("23125")
 add Line
-New string
 443434
 15551
 3434
-1555112
+15551121
 
